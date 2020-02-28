@@ -104,7 +104,7 @@
 		"@ui5/builder": "^1.10.1",
 		"@ui5/fs": "^1.1.2",
 		"@ui5/logger": "^1.0.2",
-		"@ui5/project": "^1.2.0",
+		"@ui5/project": "git+https://github.com/martenAdrian/ui5-project.git#dev",
 		"@ui5/server": "^1.6.0",
 		"chalk": "^3.0.0",
 		"import-local": "^3.0.2",
