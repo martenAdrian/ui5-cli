@@ -650,7 +650,7 @@
 			}
 		},
 		"@ui5/project": {
-			"version": "git+https://github.com/martenAdrian/ui5-project.git#9c6e1fe1b6455a3cbdb5bdd9990a45a5ec2155fe",
+			"version": "git+https://github.com/martenAdrian/ui5-project.git#ad0c060c95cb0c97c382c8b2d0f679c1e0b72000",
 			"from": "git+https://github.com/martenAdrian/ui5-project.git#dev",
 			"requires": {
 				"@ui5/builder": "^1.10.1",
